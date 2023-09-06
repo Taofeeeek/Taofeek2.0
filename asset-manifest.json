@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Taofeek2.0/static/css/main.e9b83fe3.css",
+    "main.css": "/Taofeek2.0/static/css/main.af2e9ffd.css",
     "main.js": "/Taofeek2.0/static/js/main.af039041.js",
     "static/js/787.a2cb61a6.chunk.js": "/Taofeek2.0/static/js/787.a2cb61a6.chunk.js",
     "static/media/profile-3.jpeg": "/Taofeek2.0/static/media/profile-3.a3c59d93284150b87042.jpeg",
@@ -9,12 +9,12 @@
     "static/media/moon3.jpg": "/Taofeek2.0/static/media/moon3.55ccf20521d33d6a7f4f.jpg",
     "static/media/OTB-Logo4.png": "/Taofeek2.0/static/media/OTB-Logo4.3d4ee8ad2faea1cab464.png",
     "index.html": "/Taofeek2.0/index.html",
-    "main.e9b83fe3.css.map": "/Taofeek2.0/static/css/main.e9b83fe3.css.map",
+    "main.af2e9ffd.css.map": "/Taofeek2.0/static/css/main.af2e9ffd.css.map",
     "main.af039041.js.map": "/Taofeek2.0/static/js/main.af039041.js.map",
     "787.a2cb61a6.chunk.js.map": "/Taofeek2.0/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9b83fe3.css",
+    "static/css/main.af2e9ffd.css",
     "static/js/main.af039041.js"
   ]
 }
