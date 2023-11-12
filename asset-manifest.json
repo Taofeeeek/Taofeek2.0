@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Taofeek2.0/static/css/main.cf7c33db.css",
-    "main.js": "/Taofeek2.0/static/js/main.9c597e11.js",
+    "main.js": "/Taofeek2.0/static/js/main.9d8d5eca.js",
     "static/js/787.a2cb61a6.chunk.js": "/Taofeek2.0/static/js/787.a2cb61a6.chunk.js",
     "static/media/profile-3.jpeg": "/Taofeek2.0/static/media/profile-3.a3c59d93284150b87042.jpeg",
     "static/media/Poppins-SemiBold.ttf": "/Taofeek2.0/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
-    "static/media/taofeek-braimoh-resume.pdf": "/Taofeek2.0/static/media/taofeek-braimoh-resume.85c941be96cf729ad2fc.pdf",
+    "static/media/taofeek-braimoh-resume.pdf": "/Taofeek2.0/static/media/taofeek-braimoh-resume.1fa71cf0243ea5c952a0.pdf",
     "static/media/moon3.jpg": "/Taofeek2.0/static/media/moon3.55ccf20521d33d6a7f4f.jpg",
     "static/media/OTB-Logo4.png": "/Taofeek2.0/static/media/OTB-Logo4.3d4ee8ad2faea1cab464.png",
     "index.html": "/Taofeek2.0/index.html",
     "main.cf7c33db.css.map": "/Taofeek2.0/static/css/main.cf7c33db.css.map",
-    "main.9c597e11.js.map": "/Taofeek2.0/static/js/main.9c597e11.js.map",
+    "main.9d8d5eca.js.map": "/Taofeek2.0/static/js/main.9d8d5eca.js.map",
     "787.a2cb61a6.chunk.js.map": "/Taofeek2.0/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7c33db.css",
-    "static/js/main.9c597e11.js"
+    "static/js/main.9d8d5eca.js"
   ]
 }
